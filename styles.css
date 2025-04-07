@@ -80,3 +80,14 @@ i:hover {
 .active.alert-container {
   right: -300px;
 }
+
+.setting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.setting label {
+  font-weight: bold;
+}
